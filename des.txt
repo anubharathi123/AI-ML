@@ -1,0 +1,53 @@
+An entry-level Data Scientist is responsible for assisting in the collection, analysis, and interpretation of large datasets to support business decision-making. They work under the guidance of senior data scientists to apply statistical techniques and machine learning algorithms, develop data visualizations, and create reports that communicate insights to stakeholders. This role requires proficiency in programming languages such as Python or R, knowledge of SQL for data querying, and familiarity with data manipulation and visualization tools. A strong foundation in statistics and data analysis is essential, along with the ability to collaborate with cross-functional teams to understand business needs and contribute to data-driven solutions.
+
+
+
+
+D:\\Project\\New folder (2)\\resumes
+
+tzij srvn lidi waqb
+
+
+
+    def extract_name_from_resume(file_path, extracted_text):
+    # Extract the name from the file name if possible
+    file_name = os.path.basename(file_path).replace('.pdf', '')
+    
+    # Check if the file name matches any words in the extracted text
+    words_in_text = extracted_text.split()
+    
+    # Try to match the file name or parts of it with the extracted text
+    for word in words_in_text:
+        if word.lower() in file_name.lower():
+            return word  # Return the matching word as the candidate name
+
+    # If no match, proceed with the previous logic
+    # Regex pattern for common Indian names or names in general
+    name_pattern = r'([A-Z][a-z]*\s[A-Z][a-z]*(?:\s[A-Z][a-z]*)?)|([A-Z]\.\s[A-Z][a-z]*)'
+    matches = re.findall(name_pattern, extracted_text)
+
+    # Extract the first matched name if available
+    if matches:
+        return matches[0][0] if matches[0][0] else matches[0][1]
+
+    # As a last resort, take the first line as the name
+    lines = extracted_text.splitlines()
+    if lines:
+        return lines[0].strip()
+
+    return "Unknown"  # Return 'Unknown' if no name is found
+
+
+
+
+
+
+    self.patterns = [
+            r'^(?P<first>[A-Z][a-z]+)\s+(?P<middle>[A-Z][a-z]+)\s+(?P<last>[A-Z])$',  # "First Middle Last"
+            r'^(?P<initial>[A-Z])\.\s+(?P<first>[A-Z][a-z]+)\s+(?P<last>[A-Z][a-z]+)$',  # "Initial. First Last"
+            r'^(?P<first>[A-Z][a-z]+)\s+(?P<middle>[A-Z][a-z]+)\s+(?P<last>[A-Z]\.)$',  # "First Middle Last."
+            r'^(?P<first>[A-Z][a-z]+)\s+(?P<middle>[A-Z][a-z]+)\s+(?P<last>[A-Z])\s+(?P<last_initial>[A-Z])$',  # "First Middle Last Initial"
+            r'^[A-Z][a-z]+\s+[A-Z][a-z]+\s+[A-Z]\.$',  # "First Middle A."
+            r'^[A-Z][a-z]+\s+[A-Z][a-z]+\s+[A-Z]$',  # "First Middle A"
+            r'^[A-Z][a-z]+\s+[A-Z][a-z]+\.$',  # "First Middle."
+        ]
