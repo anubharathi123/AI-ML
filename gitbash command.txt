@@ -1,0 +1,17 @@
+1.Go to the web page for your GitHub repository, and note the URL. 
+
+2.Open Bash on Windows
+
+3.cd command to switch to the directory you want to use to work on your project locally.
+
+4.git clone [URL of your repository]
+(##note- this url repositery will be downloaded and saved on your directory that u mentioned in the above step)
+
+5.cd command to go into your repository directory.
+(##note- copy/cut and paste your project folder in the repositery folder that downloaded on your project folder on your system)
+
+6.git add .
+
+7.git commit -m "[commit message]"
+
+8.git push origin [branch name]

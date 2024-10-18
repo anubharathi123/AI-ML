@@ -1,0 +1,5 @@
+ok now i am doing a internship in data analytics domain on a concern and my project title is resume parsing using machine learning model. i am going to elaborate my project to you and u have to give me the code for it.
+
+
+
+my project should accept one job description and with that description it has too build a ML model and with the help of thaat ml model it should predict whether the candidates have the skills for that job role and how many percentage did a candidate have the chance to get that job

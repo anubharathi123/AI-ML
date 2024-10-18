@@ -1,0 +1,25 @@
+git --version
+
+git init
+
+git status
+
+git add .
+
+git add filename.ext
+
+git commit -m "Initial commit"
+
+git remote add origin https://github.com/USERNAME/REPOSITORY_NAME.git
+
+git remote -v
+
+git branch
+
+git push -u origin main
+ or 
+
+git push -u origin master
+
+
+

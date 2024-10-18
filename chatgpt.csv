@@ -1,0 +1,204 @@
+File Name,Name,Profile Summary,Email,Phone,Address,Links,Experience,Education,Languages,Certificates,Skills
+kri.pdf,@,"highly motivated m.sc. student in data science with a strong foundation in data analysis, visualization, and proficiency in machine
+learning techniques like python libraries and algorithms. eager to leverage my experience in data cleaning, feature engineering, and model
+evaluation to excel as a data analyst. possesses excellent problem-solving skills and a passion for extracting valuable insights from data to
+inform strategic decision-making.
+education
+bishop heber college tiruchirappalli, tamil nadu.
+•
+master of science in data science cgpa- 7.71
+aug 2022 – may 2024
+•
+bachelor of science in mathematics cgpa- 8.38
+jun 2019 – may 2022
+areas of study:
+machine learning: regression, classification, clustering, algorithms, model building
+data analysis: data mining, data cleaning, data modeling, data visualization
+big data, sql, nlp, tensorflow, pytorch, scikit-learn, knn, decision tree, nltk, cnn, rnn
+skills
+•
+programming languages: python, sql
+•
+data visualization: power bi, tableau
+•
+tools: ms office
+•
+communication: strong written and verbal communication skills
+•
+teamwork: collaborates effectively with others to achieve common goals.
+•
+problem-solving: identifies and resolves problems effectively.
+•
+adaptability, time management, leadership, continuous learning
+projects
+pcb defect detection
+led development of a pcb defect detection and classification system using python and machine learning techniques.
+trained a faster r-cnn model to identify defects like open circuits, short circuits, and missing components. applied data augmentation and
+transformations for robust model training. evaluated model performance with confusion matrix and classification report metrics. developed
+a web-based application for real-time defect detection and classification, enhancing pcb assembly inspection efficiency. serialized and
+deployed trained model for seamless integration into production environment.
+multilingual youtube video translation with question and answering
+developed a youtube transcript translation and summarization tool using python, flask, and transformers, allowing
+users to translate and summarize youtube video transcripts efficiently. utilized the youtube transcript api for transcript extraction and
+translation, enhancing multilingual accessibility. integrated hugging face transformers for text summarization and question answering tasks,
+demonstrating proficiency in nlp techniques. designed and implemented a user-friendly web interface for seamless interaction and result
+visualization, optimizing usability.
+experience
+machine learning intern - menmozhi technologies trichy
+may 2023 – jun 2023
+certifications
+•
+create and use analytics reports with power bi - microsoft learn
+•
+data analytics consulting virtual internship - forage
+•
+introduction to data analytics - skillup
+•
+introduction to data visualization – kaggle
+•
+data analysis using excel – great learning
+volunteer experience
+organised department event’s
+actively worked in part – v club (anti-corruption club)
+known languages
+tamil, english",s.shreekrishnakanth81@gmail.com,9489341035,Not Found,"{'LinkedIn': [], 'GitHub': ['https://github.com/krishna110202'], 'Email': ['s.shreekrishnakanth81@gmail.com'], 'Kaggle': [], 'Portfolio': [('', 'com')], 'Facebook': [], 'Instagram': [], 'Git': [], 'Monster': [], 'Other': ['github.com/krishna110202', 'gmail.com', 'm.sc', 'www.linkedin.com/in/krishnadataanalytics']}",[],"[{'Degree': 'ma', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'ma', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'ms', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'ma', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'Not Found', 'University': 'bishop heber college', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'master of science', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'cgpa- 7.71'}, {'Degree': 'ma', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'aug 2022 – may 2024', 'Score': 'Not Found'}, {'Degree': 'bachelor of science', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'cgpa- 8.38'}, {'Degree': 'ma', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'jun 2019 – may 2022', 'Score': 'Not Found'}, {'Degree': 'ma', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'ms', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'ba', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'ms', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'ma', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'ma', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'ma', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'ba', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'ma', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'ma', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'ma', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'ma', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'ma', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'may 2023 – jun 2023', 'Score': 'Not Found'}]",[],[],"['communication', 'leadership', 'excel', 'python', 'sql', 'teamwork', 'power bi', 'tableau', 'machine learning']"
+ret.pdf,@,"foundation in statistical analysis, data interpretation, and problem-
+solving. proficient in programming languages such as python and
+sql, with a strong analytical mindset and a passion for translating
+data into actionable insight..
+educational qualification: bishop heber college - m.sc data science -  68%
+bishop heber college - b.sc mathematics  -   78%
+government hr sec school, inungur- hsc   - 63 %
+government hr sec school,inungur - sslc - 91%
+area of interest:                            machine learning
+data analytics
+artificial intelligence
+database management systems
+technical skills:                         programming language: python ,machine learning , sql
+visualization tools: power bi / tableau,
+data analytics: advanced excel
+skills:
+decision making,
+team work
+time management,
+quick leaner.
+internship:
+intern at enrich financial market pvt ltd , chennai.
+(may - jun 2023)
+- assisted in the development of analyze the revenue, stock
+level and kyc .
+- it provided me with practical exposure to the finance industry
+and allowed me to apply my knowledge in a real-world setting
+project involved:
+online shopping intention
+to develop a predictive model that can accurately predict
+whether a visitor is likely to make a purchase based on their
+demographic information,website usage, and purchase history.
+fetal weight prediction using ml
+this project aims to predicts unborn baby weights using
+ultrasound and maternal data, aiding in assessing birth risks using
+machine learning algorithms and improving prenatal care.
+urlguard: harnessing machine learning to detect
+malicious urls in real-time
+developed ""link guard,"" a web application using
+machine learning to classify urls as malicious or benign in real-
+time.
+features
+include
+user-friendly
+interface,
+real-time
+classification,
+and
+robust
+data
+preprocessing.
+enhanced
+cybersecurity by providing instant insights and proactive threat
+mitigation strategies.
+knowlegde acquisition:
+organized international workshop on data  science
+tools and techniques(iwdstt)
+attended startuptn at coddissia (coimbatore)
+certifications:
+natural language processing - coursera
+create and use analytics reports with power bi - microsoft learn
+introduction to data analytics - skillup
+data visualization – kaggle
+entrepreneurial management - great learning
+references:
+1. dr. jemima priyadarsini. r
+2.  dr.anita priya raja
+coordinator
+traning and placement officer ,
+department of data science                                     traning and placement division
+bishop heber college, trichy-17                             bishop heber college, trichy
+mobile no:  9443690157                                          mobile no : 9786088211
+email: jemimapriyadarsini.cs@bhc.edu.in
+email : heberplacement@bhc.edu.in",gmrethinagiri0203@gmail.com,7094624383,Not Found,"{'LinkedIn': ['https://www.linkedin.com/in/rethinagiri-g'], 'GitHub': ['https://github.com/rethinagiri'], 'Email': ['gmrethinagiri0203@gmail.com', 'jemimapriyadarsini.cs@bhc.edu.in', 'heberplacement@bhc.edu.in'], 'Kaggle': [], 'Portfolio': [('www.', 'com'), ('', 'com')], 'Facebook': [], 'Instagram': [], 'Git': [], 'Monster': [], 'Other': ['b.sc', 'jemimapriyadarsini.cs', 'github.com/rethinagiri', 'gmail.com', 'bhc.edu.in', 'm.sc', 'dr.anita', 'www.linkedin.com/in/rethinagiri-g']}",[],"[{'Degree': 'ma', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'ma', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'Not Found', 'University': 'bishop heber college', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': '68%'}, {'Degree': 'ma', 'University': 'bishop heber college', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': '78%'}, {'Degree': 'Not Found', 'University': 'Not Found', 'School': 'government hr sec school', 'Year/Time Period': 'Not Found', 'Score': '63 %'}, {'Degree': 'Not Found', 'University': 'Not Found', 'School': 'government hr sec school', 'Year/Time Period': 'Not Found', 'Score': '91%'}, {'Degree': 'ma', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'ba', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'ma', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'ma', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'ma', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'ma', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'ma', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': '2023', 'Score': 'Not Found'}, {'Degree': 'ma', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'ma', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'ms', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'ma', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'ma', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'ma', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'ma', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'ma', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'mba', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'ma', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'ma', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'Not Found', 'University': 'bishop heber college', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'ma', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'ma', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}]",[],[],"['excel', 'python', 'sql', 'power bi', 'r', 'cybersecurity', 'tableau', 'machine learning']"
+san.pdf,@,"as a data science post graduate, i bring a hands-on experience in python programming and working knowledge of sql.
+with a strong data analysis and statistics foundation, i am adept at handling and interpreting complex datasets. i possess
+excellent communication skills. eager to apply my skills and learn from experienced professionals in a dynamic work
+environment.
+education
+master of science in data science
+bishop heber college, tiruchirappalli, tamil nadu
+2022 - 2024
+cgpa: 7.72
+bachelor of science in mathematics
+national college, tiruchirappalli, tamil nadu
+2018 - 2021
+cgpa: 8.34
+projects
+smart screaming analysis for home security developed a deep learning-based system to swiftly identify distress
+screams amidst background noise. applied convolutional and recurrent
+neural networks on a curated dataset, enhancing safety measures in
+residential environments.
+house price prediction using ml
+this project aims to create a user-friendly web
+application, allowing users to input property details and
+receive instant price estimates.
+disease prediction using ml
+developed a machine learning-based disease prediction system that
+helps with early detection, hence improving healthcare decision
+making.
+experience
+ interned at goodwill wealth management, chennai
+may - june 2023
+
+brand representative at lifestyle store, trichy
+technical skills:
+
+python,
+
+sql,
+
+power bi/ tableau,
+
+ms office
+soft skills:
+
+team work
+
+communication
+
+decision making
+
+time management
+extracurricular activity
+
+actively worked for national service scheme (nss)
+
+attended international workshop on data science tools and techniques (iwdstt)
+
+attended startuptn at coddissia, coimbatore – 2023
+certifications:
+
+natural language processing - coursera
+
+create and use analytics reports with power bi - microsoft learn
+
+introduction to data analytics – skillup
+
+data visualization – kaggle",santhoshselvam140701@gmail.com,6379845443,"3/44, east street, archampatty, karur – 621313.","{'LinkedIn': [], 'GitHub': [], 'Email': ['santhoshselvam140701@gmail.com'], 'Kaggle': [], 'Portfolio': [], 'Facebook': [], 'Instagram': [], 'Git': [], 'Monster': [], 'Other': ['gmail.com']}",[],"[{'Degree': 'ma', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'master of science', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'Not Found', 'University': 'bishop heber college', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'Not Found', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': '2022', 'Score': 'Not Found'}, {'Degree': 'Not Found', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'cgpa: 7.72'}, {'Degree': 'bachelor of science', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'Not Found', 'University': 'national college', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'Not Found', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': '2018', 'Score': 'Not Found'}, {'Degree': 'Not Found', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'cgpa: 8.34'}, {'Degree': 'ma', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'ms', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'ms', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'ma', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'ma', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'ma', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'ma', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'ma', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': '2023', 'Score': 'Not Found'}, {'Degree': 'ms', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'ma', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'ma', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': 'Not Found', 'Score': 'Not Found'}, {'Degree': 'mba', 'University': 'Not Found', 'School': 'Not Found', 'Year/Time Period': '2023', 'Score': 'Not Found'}]",[],[],"['communication', 'python', 'sql', 'power bi', 'tableau']"
+sri.pdf,Not Found,Not Found,Not Found,Not Found,Not Found,"{'LinkedIn': [], 'GitHub': [], 'Email': [], 'Kaggle': [], 'Portfolio': [], 'Facebook': [], 'Instagram': [], 'Git': [], 'Monster': [], 'Other': []}",[],[],[],[],['Not Found']
